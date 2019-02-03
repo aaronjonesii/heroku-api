@@ -36,7 +36,7 @@ DEBUG = os.environ.get('DEBUG', False)
 ALLOWED_HOSTS = [
     'api-anonsys-tech.herokuapp.com',
     'api.anonsys.tech',
-    # 'localhost',
+    'localhost',
     # '93.188.164.182',
     # 'anonsys.tech'
 ]
